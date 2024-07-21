@@ -1,2 +1,2 @@
 # readerX
-Reader mode based on templates processed on local server.
+Locally hosted reader-mode based on templates.
