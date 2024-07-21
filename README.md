@@ -1,2 +1,2 @@
 # readerX
-Locally hosted reader-mode based on templates.
+Locally hosted reader-mode Flask app with templates for websites.
