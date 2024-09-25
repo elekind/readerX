@@ -1,5 +1,5 @@
 # readerX
-Locally hosted reader-mode Flask app with templates for news-sites.
+Locally hosted reader-mode Flask app with templates for news-sites. Removes ads, cross-links, video thumbnails to clean up page.
 
 Currently has templates for - 
 
